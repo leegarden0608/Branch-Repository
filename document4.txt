@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+void main(){
+    printf("hello world");
+    int i, j;
+    printf("%d = %d + %d", i+j, i, j);
+    return;
+}

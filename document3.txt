@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void main(){
+
+    printf("hello world");
+    int a, b, c;
+    a = 1;
+    b = 2;
+    scanf("%d", c);
+    printf("%d", a + b + c);
+    return 0;
+
+}

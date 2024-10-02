@@ -1,5 +1,6 @@
 #include <stdio.h>
 컴퓨터공학과
+
 void main(){
 
     printf("hello world");
